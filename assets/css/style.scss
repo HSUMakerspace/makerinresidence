@@ -2,15 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Oswald&family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Oswald&family=Roboto+Condensed:wght@300&family=Unica+One&display=swap');
 @import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
 
 body {
-  font-family: oswald, sans-serif;
+  font-family: 'roboto condensed', sans-serif;
 }
 
 .page-header {
-  background-image: url(../../images/blurryGroup.png);
+  background-image: url(../../images/boxBackground.png);
+  background-color: #5c62cb;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -40,14 +41,18 @@ a.anchorLink:hover {
 }
 
 .project-name {
-    text-shadow: 2vw 2vw 2px rgba(0,0,0,0.1);
-    font-size: 15vw;
-    color: rgba(255,255,255,0.7);
-    transform: rotate(-2deg);
+  font-size: 7vw;
+  color: rgba(255,255,255,0.9);
+  text-shadow: 0.5rem 0.5rem rgba(204,0,0,1);
+  transform: rotate(-2deg);
 }
 
 .project-tagline {
-  font-size: 3vw;
+  font-size: 2vw;
+  font-family: 'unica one';
+  line-height: 1;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 ion-icon {
