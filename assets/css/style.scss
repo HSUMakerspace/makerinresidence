@@ -2,8 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Oswald&family=Unica+One&display=swap');
 @import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
+
+body {
+  font-family: oswald, sans-serif;
+}
 
 .page-header {
   background-image: url(../../images/blurryGroup.png);
@@ -14,12 +18,12 @@
 }
 
 h1 {
-  font-family: lobster;
+  font-family: 'unica one';
   font-weight: 400;
 }
 
 .main-content h3 {
-  font-family: lobster;
+  font-family: 'montserrat alternates';
   font-weight: 400;
   color: rgba(21,153,87,0.7);
   font-size: 4rem;
