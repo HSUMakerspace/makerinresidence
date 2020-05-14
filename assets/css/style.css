@@ -1,0 +1,53 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400,500,700,900&display=swap');
+@import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
+
+.page-header {
+  background-image: url(../../images/blurryGroup.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-y: 40%;
+}
+
+h1 {
+  font-family: lobster;
+  font-weight: 400;
+}
+
+.main-content h3 {
+  font-family: lobster;
+  font-weight: 400;
+  color: rgba(21,153,87,0.7);
+  font-size: 4rem;
+}
+
+.main-content h4 {    
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+a.anchorLink:hover {
+  text-decoration: none;
+  color: rgba(21,153,87,1);
+}
+
+.project-name {
+    text-shadow: 2vw 2vw 2px rgba(0,0,0,0.1);
+    font-size: 15vw;
+    color: rgba(255,255,255,0.7);
+    transform: rotate(-2deg);
+}
+
+.project-tagline {
+  font-size: 3vw;
+}
+
+ion-icon {
+  position: absolute;
+  margin-left: -4rem;
+  display: none;
+}
