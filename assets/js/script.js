@@ -12,7 +12,7 @@
     window.addEventListener("scroll", function(e) {
 
       // What % down is it? 
-      var scrollPercentage = (document.documentElement.scrollTop*40 + document.body.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight);
+      var scrollPercentage = (document.documentElement.scrollTop*1 + document.body.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight);
 
       // Length to offset the dashes
       var drawLength = pathLength * scrollPercentage;
