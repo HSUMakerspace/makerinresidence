@@ -9,13 +9,12 @@ body {
   font-family: 'roboto condensed', sans-serif;
 }
 
-.page-header {
-  background-image: url(../../images/makerspaceBackground.png);
-  background-color: #5c62cb;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position-y: 40%;
+.page-header {  
+  background-color: transparent;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #5C62CB;
 }
 
 h1 {
@@ -26,7 +25,6 @@ h1 {
 .main-content h3 {
   font-family: 'montserrat alternates';
   font-weight: 400;
-  color: rgba(21,153,87,0.7);
   font-size: 4rem;
 }
 
@@ -35,9 +33,12 @@ h1 {
   font-size: 1.5rem;
 }
 
+a {
+  color: #c00;
+}
+
 a.anchorLink:hover {
   text-decoration: none;
-  color: rgba(21,153,87,1);
 }
 
 .project-name {
