@@ -22,6 +22,85 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   </head>
   <body>
+    <svg viewbox="0 0 200 600" id="bubble-svg">
+      <path class="bubble-path yellow-box"
+            fill="none"
+            stroke="yellow"
+            stroke-width="0.5"
+            d="
+               M 25, 5               
+               l 125, -5
+               l 0, 25
+               l -125, 5
+               l 0, -25
+               M 0, 35
+               l 125, -5
+               l 0, 25
+               l -125, 5
+               l 0, -25
+               M 25, 30
+               l -25, 30
+               M 25, 5
+               l -25, 30
+               M 150, 0
+               l -25, 30
+               M 150, 25
+               l -25, 30
+               "/> 
+      
+      <path class="bubble-path red-circles"
+            fill="none"
+            stroke="red"
+            stroke-width="0.5"
+            d="  M 15, 10
+                 c 0, -10
+                   15, -10
+                   15, 0
+                 M 15, 10
+                 c 0, 10
+                   15, 10
+                   15, 0
+               
+                 M 120, 40
+                 c 0, -10
+                   15, -10
+                   15, 0
+                 M 120, 40
+                 c 0, 10
+                   15, 10
+                   15, 0
+               
+                 M 110, 10
+                 c 0, -6.5
+                   10, -6.5
+                   10, 0
+                 M 110, 10
+                 c 0, 6.5
+                   10, 6.5
+                   10, 0
+               
+                 M 70, 50
+                 c 0, -6.5
+                   10, -6.5
+                   10, 0
+                 M 70, 50
+                 c 0, 6.5
+                   10, 6.5
+                   10, 0
+               " />
+      
+      <path class="bubble-path red-circle-lines"
+            fill="none"
+            stroke="red"
+            stroke-width="0.5"
+            d="M 29, 14               
+               L 70, 48
+               M 79, 47               
+               L 111, 13
+               M 117, 15               
+               l 8, 18
+               "/>
+    </svg>
     <header class="page-header" role="banner">
       <h1 class="project-name">Maker-in-Residence</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
