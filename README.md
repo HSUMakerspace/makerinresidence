@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## 2019-20
 
-You can use the [editor on GitHub](https://github.com/HSUMakerspace/makerinresidence/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Maker in Residence MiR showcase and archive! Here you can find the various projects that Makerspace interns have created. If you are interested in learning more about Makerspace Internships, including how to apply, visit the [SkillShops &amp; Makerspace Internship guide](https://libguides.humboldt.edu/internshowcase/apply).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Inaugural Makers in Residence
+Cherish Fulcher and Marie Lopez were the first MiR at the [HSU Library Makerspace](http://libguides.humboldt.edu/makerspace). The Makerspace was launched in Fall 2019 and the MiR program was intended to help us establish the space as one that is open to all HSU students and promotes interdisciplinary projects and equity. The main goal in our call for proposals was: 
 
-### Markdown
+> HSU Library is seeking two Makers in Residence (MiR) to support achieving the Library Diversity & Social Justice Working Group’s goal of making our collections, services, and events equitable, inclusive, and reflective of our diverse campus community. We are seeking students from all majors and disciplines who are passionate about making, diversity, equity, and inclusion for this stipend-based internship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We were excited when we received their proposals because both had ideas and visions of projects that met these goals and also had ideas for how to teach and inspire others to become makers.
 
-```markdown
-Syntax highlighted code block
+### Cherish Fulcher
 
-# Header 1
-## Header 2
-### Header 3
+[Makers in Residence: Hair Identity & Tech](https://itsjusthairidentity.tumblr.com/) 
 
-- Bulleted
-- List
+> These posts are dedicated to demonstrating how you can bridge the gap between the way we express ourselves through our hair and technology. The main focus is the use of the 3D printer and ways we can expand the way we view 3D models and how we create them. 
 
-1. Numbered
-2. List
+> Hopefully views will be able to be inspired by hair identity and know how hair and identity is very strong in the African American community, as well as become comfortable with creating 3D models and seeing the infinite possibilities behind creating them. 
 
-**Bold** and _Italic_ and `Code` text
+[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)
 
-[Link](url) and ![Image](src)
-```
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P89P-8eBEms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Marie Lopez
 
-### Jekyll Themes
+As a music creator, film scores have always been a source of inspiration, since they are used to capture and describe a setting or mood. I wanted to use spoken word poetry to have another way of capturing an experience and use the real voices of those who live in those experiences of people of color. Bringing the two together was a practice of trying new musical settings that matched the words of the poetry, and also trying to highlight the meaning of the poetry itself. Although the project is not as complete as I would have liked, I am happy with what I was able to bring together. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HSUMakerspace/makerinresidence/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### A list of the equipment and software used:
 
-### Support or Contact
+* Macbook Pro
+* Logic Pro X
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 1-3 things that went particularly well:
+
+The use of a percussion line that kept the same tempo and main beat, yet changed in the accompanying instruments to drive dynamics and mood
+
+The selection of acoustic instruments that would be used in a real live performance setting (marimba, latin percussion, piano, etc.)
+
+#### 1-3 things that you would do differently, or that you learned as part of the process
+
+I would try to plan out the basic structure of the track a bit more beforehand so as to more easily keep a overlying musical theme 
+It would be ideal to work with and have recordings from local poets 
+
+#### And any miscellaneous links or resources: (if applicable)
+
+A lot of the poetry readings from independent poets came from YouTube
