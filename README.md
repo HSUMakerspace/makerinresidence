@@ -17,6 +17,8 @@ We were excited when we received their proposals because both had ideas and visi
 
 > Hopefully views will be able to be inspired by hair identity and know how hair and identity is very strong in the African American community, as well as become comfortable with creating 3D models and seeing the infinite possibilities behind creating them. 
 
+[![YouTube Tutorial Screenshot](../images/tutorialScreenshot.png)](https://youtu.be/P89P-8eBEms)
+
 [Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P89P-8eBEms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
