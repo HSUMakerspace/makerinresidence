@@ -11,6 +11,8 @@ We were excited when we received their proposals because both had ideas and visi
 
 ### Cherish Fulcher
 
+![title image: Hair Identity & Tech, by Cherish](/images/cherishBlogTitle.png)
+
 Cherish, who also worked as a 3D Printing student assistant, designed her project around 3D printing. She created a blog and an instructional video on creating models with Tinkercad, a free web-based 3D modeling program used widely for teaching. 
 
 [Makers in Residence: Hair Identity & Tech](https://itsjusthairidentity.tumblr.com/) 
@@ -26,6 +28,16 @@ _[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, Y
 ### Marie Lopez
 
 As a music creator, film scores have always been a source of inspiration, since they are used to capture and describe a setting or mood. I wanted to use spoken word poetry to have another way of capturing an experience and use the real voices of those who live in those experiences of people of color. Bringing the two together was a practice of trying new musical settings that matched the words of the poetry, and also trying to highlight the meaning of the poetry itself. Although the project is not as complete as I would have liked, I am happy with what I was able to bring together. 
+
+<figure>
+  <figcaption>Listen to <i>Voices</i>:</figcaption>
+    <audio
+        controls
+        src="/media/examples/t-rex-roar.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 #### A list of the equipment and software used:
 
