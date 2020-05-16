@@ -34,6 +34,11 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
+<figure>
+<figcaption>Listen to <i>Voices</i>:</figcaption>
+<audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>This is the Github raw file. Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
+</figure>
+
 #### A list of the equipment and software used:
 
 * Macbook Pro
