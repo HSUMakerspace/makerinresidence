@@ -11,6 +11,8 @@ We were excited when we received their proposals because both had ideas and visi
 
 ### Cherish Fulcher
 
+Cherish, who also worked as a 3D Printing student assistant, designed her project around 3D printing. She created a blog and an instructional video on creating models with Tinkercad, a free web-based 3D modeling program used widely for teaching. 
+
 [Makers in Residence: Hair Identity & Tech](https://itsjusthairidentity.tumblr.com/) 
 
 > These posts are dedicated to demonstrating how you can bridge the gap between the way we express ourselves through our hair and technology. The main focus is the use of the 3D printer and ways we can expand the way we view 3D models and how we create them. 
@@ -19,9 +21,7 @@ We were excited when we received their proposals because both had ideas and visi
 
 [![YouTube Tutorial Screenshot](/images/tutorialScreenShot.png)](https://youtu.be/P89P-8eBEms)
 
-[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P89P-8eBEms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)_
 
 ### Marie Lopez
 
