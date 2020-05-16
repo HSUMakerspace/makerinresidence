@@ -22,7 +22,7 @@ body {
   background: linear-gradient(
     to bottom,
     #5c62cb,
-    #00ccfe
+    transparent
   );
   width: 100%;
 }
@@ -83,17 +83,17 @@ ion-icon {
 #bubble-svg {
   position: fixed;
   width: 100%;
-  top: 0;
+  top: 10%;
   z-index: -1;
   max-width: 100%;
 }
 
 .yellow-box {
-  stroke-width: 2; 
+  stroke-width: 1; 
   stroke: #fecb00;
 }
 
 .circles, .circle-lines {
-  stroke-width: 1;
+  stroke-width: 0.5;
   stroke: #00ccfe;
 }
