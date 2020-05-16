@@ -30,13 +30,12 @@ _[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, Y
 As a music creator, film scores have always been a source of inspiration, since they are used to capture and describe a setting or mood. I wanted to use spoken word poetry to have another way of capturing an experience and use the real voices of those who live in those experiences of people of color. Bringing the two together was a practice of trying new musical settings that matched the words of the poetry, and also trying to highlight the meaning of the poetry itself. Although the project is not as complete as I would have liked, I am happy with what I was able to bring together. 
 
 <figure>
-  <figcaption>Listen to <i>Voices</i>:</figcaption>
-    <audio
-        controls
-        src="/media/examples/t-rex-roar.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+<figcaption>Listen to <i>Voices</i>:</figcaption>
+<audio
+  controls
+  src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">
+  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p>
+</audio>
 </figure>
 
 #### A list of the equipment and software used:
