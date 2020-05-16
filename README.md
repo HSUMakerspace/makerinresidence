@@ -31,11 +31,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 
 <figure>
 <figcaption>Listen to <i>Voices</i>:</figcaption>
-<audio
-  controls
-  src="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a">
-  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a">link to the audio</a> instead.</p>
-</audio>
+<audio controls src="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a"><p>Your browser doesn't support HTML5 audio. Here is a <a href="https://cdn.glitch.com/2d169cfb-e161-4a61-a8ea-dd800c9dbc24%2FVoices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
 #### A list of the equipment and software used:
