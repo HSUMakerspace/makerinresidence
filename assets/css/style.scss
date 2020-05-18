@@ -60,6 +60,8 @@ a.anchorLink:hover {
   font-size: 9vw;
   color: rgba(255,255,255,0.9);
   transform: rotate(-2deg);
+  position: absolute; 
+  top: 0;
 }
 
 .project-tagline {
@@ -70,8 +72,6 @@ a.anchorLink:hover {
   margin: 0 auto;
 }
 
-ion-icon {
-  position: absolute;
-  margin-left: -4rem;
-  display: none;
+.parallax-image {
+  z-index: -1;
 }
