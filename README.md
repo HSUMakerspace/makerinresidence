@@ -1,8 +1,6 @@
-## 2019-20
-
 Welcome to the Maker in Residence MiR showcase and archive! Here you can find the various projects that Makerspace interns have created. If you are interested in learning more about Makerspace Internships, including how to apply, visit the [SkillShops &amp; Makerspace Internship guide](https://libguides.humboldt.edu/internshowcase/apply).
 
-### The Inaugural Makers in Residence
+## 2019-20: The Inaugural Makers in Residence
 Cherish Fulcher and Marie Lopez were the first MiR at the [HSU Library Makerspace](http://libguides.humboldt.edu/makerspace). The Makerspace was launched in Fall 2019 and the MiR program was intended to help us establish the space as one that is open to all HSU students and promotes interdisciplinary projects and equity. The main goal in our call for proposals was: 
 
 > HSU Library is seeking two Makers in Residence (MiR) to support achieving the Library Diversity & Social Justice Working Group’s goal of making our collections, services, and events equitable, inclusive, and reflective of our diverse campus community. We are seeking students from all majors and disciplines who are passionate about making, diversity, equity, and inclusion for this stipend-based internship.
