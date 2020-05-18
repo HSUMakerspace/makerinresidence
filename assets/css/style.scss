@@ -7,8 +7,6 @@
 
 body {
   font-family: 'roboto condensed', sans-serif;
-  background-image: none;
-  background-attachment: fixed;
   width: 100%;
   position: relative;
   max-width: 100%;
@@ -33,6 +31,25 @@ body {
   max-width: 100%;
 }
 
+.project-name {
+  font-size: 9vw;
+  color: rgba(255,255,255,0.9);
+  transform: rotate(-2deg);
+  position: absolute; 
+  width: 95%;
+  top: 0;
+  text-shadow: 0.5rem 0.5rem 1rem rgba(0,0,0,0.3);
+}
+
+.project-tagline {
+  font-size: 2vw;
+  font-family: 'unica one';
+  line-height: 1;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: none;
+}
+
 .main-content {
   background: rgba(255,255,255,0.9);
   z-index: 1000;
@@ -49,8 +66,12 @@ h1 {
 }
 
 .main-content h3 {
-  font-family: 'montserrat alternates';
+  font-family: 'unica one';
   font-weight: 400;
+  font-size: 4em;
+  background: #5c62cb;
+  color: #fff;
+  padding-left: 0.5em;
 }
 
 .main-content h4 {    
@@ -64,26 +85,4 @@ a {
 
 a.anchorLink:hover {
   text-decoration: none;
-}
-
-.project-name {
-  font-size: 9vw;
-  color: rgba(255,255,255,0.9);
-  transform: rotate(-2deg);
-  position: absolute; 
-  width: 95%;
-  top: 0;
-  text-shadow: 0px 0px 0.5rem rgba(0,0,0,0.3);
-}
-
-.project-tagline {
-  font-size: 2vw;
-  font-family: 'unica one';
-  line-height: 1;
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-.parallax-image {
-  z-index: -1;
 }
