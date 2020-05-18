@@ -10,7 +10,7 @@ body {
   background-image: none;
   background-attachment: fixed;
   max-width: 100%;
-  background: #000;
+  background: url(../../images/makerspaceBackground.png) no-repeat, linear-gradient(to bottom, #5c62cb, transparent);
 }
 
 .page-header {  
@@ -19,11 +19,6 @@ body {
   position: fixed;
   top: 0;
   z-index: -1;
-  background: linear-gradient(
-    to bottom,
-    #5c62cb,
-    transparent
-  );
   width: 100%;
 }
 
@@ -79,22 +74,4 @@ ion-icon {
   position: absolute;
   margin-left: -4rem;
   display: none;
-}
-
-#bubble-svg {
-  position: fixed;
-  width: 100%;
-  top: 10%;
-  z-index: -1;
-  max-width: 100%;
-}
-
-.yellow-box {
-  stroke-width: 0.5; 
-  stroke: #fecb00;
-}
-
-.circles, .circle-lines {
-  stroke-width: 0.5;
-  stroke: #00ccfe;
 }
