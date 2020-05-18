@@ -36,12 +36,12 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
-#### Equipment and software used:
+#### Equipment and software used
 
 * Macbook Pro
 * Logic Pro X
 
-#### Things that went particularly well:
+#### Things that went particularly well
 
 The use of a percussion line that kept the same tempo and main beat, yet changed in the accompanying instruments to drive dynamics and mood.
 
@@ -52,6 +52,6 @@ The selection of acoustic instruments that would be used in a real live performa
 I would try to plan out the basic structure of the track a bit more beforehand so as to more easily keep a overlying musical theme. 
 It would be ideal to work with and have recordings from local poets.
 
-#### And any miscellaneous links or resources: (if applicable)
+#### Links &amp; resources
 
 A lot of the poetry readings from independent poets came from YouTube.
