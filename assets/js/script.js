@@ -1,7 +1,12 @@
 window.addEventListener('scroll', function(e){
-  var scrolled = window.pageYOffset;
+  var scrolledBG = window.pageYOffset;
   const background = document.querySelector('.background');
-  background.style.top = - (scrolled * 0.8) + 'px';
   const title = document.querySelector('.title');
-  title.style.top = - (scrolled * -0.8) + 'px';
+  var scrolledtitle = background.getBoundingClientRect();
+  var titlePos = scrolledtitle.top;
+  var scrolledBG = background.getBoundingClientRect();
+  var BGPos = scrolledBG.top;
+  background.style.top = - (BGPos * 0.8) + 'px';
+  const title = document.querySelector('.title');
+  title.style.top = - (titlePos * -0.8) + 'px';
 });
