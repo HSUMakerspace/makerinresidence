@@ -21,6 +21,7 @@ body {
   top: 0;
   z-index: -1;
   width: 100%;
+  padding: none;
 }
 
 .main-content {
@@ -62,6 +63,7 @@ a.anchorLink:hover {
   color: rgba(255,255,255,0.9);
   transform: rotate(-2deg);
   position: absolute; 
+  width: 100%;
   top: 0;
 }
 
