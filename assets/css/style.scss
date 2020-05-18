@@ -9,6 +9,8 @@ body {
   font-family: 'roboto condensed', sans-serif;
   background-image: none;
   background-attachment: fixed;
+  width: 100%;
+  position: relative;
   max-width: 100%;
   background: #fff;
   background: linear-gradient(180deg, rgba(92,98,203,1) 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 100%);
@@ -17,7 +19,8 @@ body {
 .page-header {  
   background-color: transparent;
   background-image: none;
-  position: relative;
+  position: absolute;
+  top: 0;
   z-index: -1;
   width: 100%;
   padding: 0;
@@ -68,7 +71,7 @@ a.anchorLink:hover {
   color: rgba(255,255,255,0.9);
   transform: rotate(-2deg);
   position: absolute; 
-  width: 100%;
+  width: 95%;
   top: 0;
   text-shadow: 0px 0px 0.5rem rgba(0,0,0,0.3);
 }
