@@ -111,7 +111,11 @@ a .anchorLink {
 
 a .anchorLink:hover {
   text-decoration: none;
-  
+}
+
+a.anchor {
+  background: #fff;
+  color: #5c62cb;
 }
 
 @media screen and (min-width: 1000px) {
