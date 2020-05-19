@@ -84,6 +84,11 @@ h1 {
   cursor: pointer;
 }
 
+.main-content h3 {
+  background: #fff;
+  color: #5c62cb;
+}
+
 .main-content h4 {    
   font-weight: bold;
   font-size: 2vw;
@@ -112,11 +117,6 @@ a .anchorLink {
 
 a .anchorLink:hover {
   text-decoration: none;
-}
-
-a.anchor:hover {
-  background: #fff;
-  color: #5c62cb;
 }
 
 @media screen and (min-width: 1000px) {
