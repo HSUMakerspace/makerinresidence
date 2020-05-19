@@ -21,7 +21,7 @@ function addAnchorLink(){
     //$(this).attr('id',sectionId);
     var sectionId = $(this).attr('id');
     $(this).wrap('<a href="#'+sectionId+'"></a>');
-    $(this).prepend('<span class="anchorLink">:link:</span>');
+    $(this).prepend('<span class="anchorLink">🔗</span>');
   });
   $('h3').hover(function(){
     $(this).find('.anchorLink').toggle(); 
