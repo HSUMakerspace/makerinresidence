@@ -62,7 +62,7 @@ body {
   background: rgba(255,255,255,0.9);
   z-index: 1000;
   position: relative;
-  margin-top: 25%;
+  margin-top: 45%;
   font-size: 1.5rem;
 }
 
@@ -102,6 +102,6 @@ a.anchorLink:hover {
   text-decoration: none;
 }
 
-@media screen and (min-width: 1000px) {
-  .main-content: 45%;
+@media only screen and (min-width: 1000px) {
+  .main-content: 25%;
 }
