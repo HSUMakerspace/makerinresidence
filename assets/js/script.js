@@ -21,10 +21,10 @@ function addAnchorLink(){
     //$(this).attr('id',sectionId);
     var sectionId = $(this).attr('id');
     $(this).wrap('<a href="#'+sectionId+'" class="anchor"></a>');
-    $(this).prepend('<span class="anchorLink">🔗</span>');
+    $(this).prepend('<img class="anchorIcon" />');
   });
   $('h3').hover(function(){
-    $(this).find('.anchorLink').toggle(); 
+    $(this).find('.anchorIcon').toggleClass('on'); 
   });
 }
 addAnchorLink();
