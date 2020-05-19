@@ -29,11 +29,10 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
   max-width: 100%;
 }
 
-.background img {
+.background img, .forground img, .midground img {
   width: 100%;
 }
 
