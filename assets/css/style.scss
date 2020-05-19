@@ -78,14 +78,18 @@ h1 {
   font-family: 'unica one';
   font-weight: 400;
   font-size: 2.5em;
-  background: #5c62cb;
+  background: #fff;
+  width: 100%;
+  margin-left: 2em;
+  box-shadow: inset -200vw 0px 0px #5c62cb;
+  overflow: hidden;
   color: #fff;
-  padding-left: 0.5em;
-  cursor: pointer;
+  transition: 1s;
+  padding: 0.25em 1em;
 }
 
 .main-content h3:hover {
-  background: #fff;
+  box-shadow: inset -40vw 0px 0px #c00;
   color: #5c62cb;
 }
 
@@ -109,15 +113,17 @@ a:hover {
   text-decoration: none;
 }
 
-a .anchorLink {
-  display: none;
+.anchorIcon {
   position: absolute;
-  margin-left: -6rem;
+  margin-left: -1.75em;
+  opacity: 0;
+  width: 1.5em;
+  transition: opacity 0.5s ease-out;
 }
 
-a .anchorLink:hover {
-  text-decoration: none;
-  display: block;
+.anchorIcon.on {
+  opacity: 1;
+  transition: opacity 1.5s ease-in;
 }
 
 @media screen and (min-width: 1000px) {
