@@ -96,14 +96,22 @@ h1 {
 
 a {
   color: #c00;
+  box-shadow: inset 0px -2px 0px #c00;
+}
+
+a:hover {
+  box-shadow: inset 0px -8px 0px rgba(255,255,0,0.5);
 }
 
 a .anchorLink {
   display: none;
+  position: absolute;
+  margin-left: -6rem;
 }
 
-a.anchorLink:hover {
+a .anchorLink:hover {
   text-decoration: none;
+  
 }
 
 @media screen and (min-width: 1000px) {
