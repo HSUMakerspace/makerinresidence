@@ -99,6 +99,10 @@ a {
   color: #c00;
 }
 
+a.anchorLink {
+  display: none;
+}
+
 a.anchorLink:hover {
   text-decoration: none;
 }
