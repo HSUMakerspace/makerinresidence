@@ -24,7 +24,7 @@ function addAnchorLink(){
     $(this).prepend('<span class="anchorLink">🔗</span>');
   });
   $('h3').hover(function(){
-    $(this).find('.anchorLink').toggle(); 
+    //$(this).find('.anchorLink').toggle(); 
   });
 }
 addAnchorLink();
