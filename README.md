@@ -1,3 +1,5 @@
+:link:
+
 Welcome to the Maker in Residence MiR showcase and archive! Here you can find the various projects that Makerspace interns have created. If you are interested in learning more about Makerspace Internships, including how to apply, visit the [SkillShops &amp; Makerspace Internship guide](https://libguides.humboldt.edu/internshowcase/apply).
 
 ## 2019-20: The Inaugural Makers in Residence
