@@ -21,7 +21,7 @@ function addAnchorLink(){
     //$(this).attr('id',sectionId);
     var sectionId = $(this).attr('id');
     $(this).wrap('<a href="#'+sectionId+'" class="anchor"></a>');
-    $(this).prepend('<img class="anchorIcon" src="../../images/linkIcon.png" />');
+    $(this).prepend('<img class="anchorIcon" src="images/linkIcon.png" />');
   });
   $('h3').hover(function(){
     $(this).find('.anchorIcon').toggleClass('on'); 
