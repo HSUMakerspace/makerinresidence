@@ -1,5 +1,5 @@
 $(function() {
-
+console.log("Hello");
 window.addEventListener('scroll', function(e){
   var scrolled = window.pageYOffset;
   console.log("scrolled: "+scrolled);
