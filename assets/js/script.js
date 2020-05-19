@@ -20,7 +20,7 @@ function addAnchorLink(){
     //sectionId = sectionId+i;
     //$(this).attr('id',sectionId);
     var sectionId = $(this).attr('id');
-    $(this).wrap('<a href="#'+sectionId+'"></a>');
+    $(this).wrap('<a href="#'+sectionId+'" class="anchor"></a>');
     $(this).prepend('<span class="anchorLink">🔗</span>');
   });
   $('h3').hover(function(){
