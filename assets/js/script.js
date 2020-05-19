@@ -16,14 +16,15 @@ window.addEventListener('scroll', function(e){
 
 function addAnchorLink(){
   $('h3').each(function(i){
-    var sectionId = "section";  
-    sectionId = sectionId+i;
-    $(this).attr('id',sectionId);
+    //var sectionId = "section";  
+    //sectionId = sectionId+i;
+    //$(this).attr('id',sectionId);
+    var sectionId = $(this).attr('id');
     $(this).wrap('<a href="#'+sectionId+'"></a>');
-    $(this).prepend('<span>:link:</span>');
+    $(this).prepend('<span class="anchorLink">:link:</span>');
   });
   $('h3').hover(function(){
-    $(this).find('ion-icon').toggle(); 
+    $(this).find('.anchorLink').toggle(); 
   });
 }
 addAnchorLink();
