@@ -15,19 +15,23 @@ However, there was a major setback in our plans for the Spring 2020 semester: th
 
 ![title image: Hair Identity & Tech, by Cherish](/images/cherishBlogTitle.png)
 
-Cherish, who also worked as a 3D Printing student assistant, designed her project around 3D printing. She created a blog and an instructional video on creating models with Tinkercad, a free web-based 3D modeling program used widely for teaching. 
-
-[Makers in Residence: Hair Identity & Tech](https://itsjusthairidentity.tumblr.com/) 
+Cherish, who also working as a [Makerspace 3D Printing](http://libguides.humboldt.edu/makerspace/3dprinting) student assistant, designed her project around designing and printing 3D models. She created a blog and an instructional video on creating models with [Tinkercad](https://www.tinkercad.com/), a free web-based 3D modeling program used widely for teaching. Specifically, her project explores hair identity in the African American community and how making 3D models can be used to help express that identity. On her blog, Cherish shares that:
 
 > These posts are dedicated to demonstrating how you can bridge the gap between the way we express ourselves through our hair and technology. The main focus is the use of the 3D printer and ways we can expand the way we view 3D models and how we create them. 
 
-> Hopefully views will be able to be inspired by hair identity and know how hair and identity is very strong in the African American community, as well as become comfortable with creating 3D models and seeing the infinite possibilities behind creating them. 
+> Hopefully viewers will be able to be inspired by hair identity and know how hair and identity is very strong in the African American community, as well as become comfortable with creating 3D models and seeing the infinite possibilities behind creating them. 
+
+View Cherish's full project blog for more details and resources: [Makers in Residence: Hair Identity & Tech](https://itsjusthairidentity.tumblr.com/) 
 
 [![YouTube Tutorial Screenshot](/images/tutorialScreenShot.png)](https://youtu.be/P89P-8eBEms)
 
 _[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)_
 
 ### Marie Lopez
+
+Marie created a music project that explores spoken word performances by people of color. Marie composed and recorded a song, _Voices_, that she planned to perform live in the HSU Library as well as a workshop to share her process for composing a song using sound clips and instrument libraries. Unfortunately both of these had to be cancelled, due to COVID-19, but you can listen to _Voices_ and read Marie's artist statement and thoughts about her project below.
+
+#### Marie's write-up:
 
 As a music creator, film scores have always been a source of inspiration, since they are used to capture and describe a setting or mood. I wanted to use spoken word poetry to have another way of capturing an experience and use the real voices of those who live in those experiences of people of color. Bringing the two together was a practice of trying new musical settings that matched the words of the poetry, and also trying to highlight the meaning of the poetry itself. Although the project is not as complete as I would have liked, I am happy with what I was able to bring together. 
 
