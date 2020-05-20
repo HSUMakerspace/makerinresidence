@@ -44,6 +44,28 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
+<h5>Transcript</h5>
+<div class="transcript">
+First Speaker:
+Did you know um, I have to explain, I didn't come from a good Catholic family, I came from a Mexican Catholic family.
+No, it's different. I have to explain, you know?
+My mother didn't cross herself or have little candles lit on the dresser.
+No, my mom's this real free thinker and if she had been a traditional mother I couldn't be the writer I am today.
+
+Second Speaker:
+My Spanish is my third birthday party. Half of it is memory. The other half is that photograph on the fridge is what my family has told me.
+My Spanish is puzzle. Left in the rain too soggy to make its parts fit together to look just like the picture on the box.
+
+Third Speaker:
+This is what it means to be a contradiction: too black to be a woman, and not man enough to be black.
+This is what it means to occupy a vacant space: have everyone slash each cross-stitch intersection of my identity with a straight blade. Tell me to pick one label or none at all.
+But ain't I a woman?
+
+Fourth Speaker:
+You take away our history, you take away our soul you take away our fathers you take away our jobs you take away our food. 
+And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here! 
+</div>
+
 #### Equipment and software used
 
 * Macbook Pro
