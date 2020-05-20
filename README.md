@@ -10,7 +10,9 @@ We were excited when we received their proposals because both had ideas and visi
 ## A Major Snag
 
 However, there was a major setback in our plans for the Spring 2020 semester: the COVID-19 crisis, which meant that any face-to-face plans that we had been working on could not happen. When the HSU campus was closed, it meant that not only did all of us have to learn new ways to do our work and keep up with the semester, but we had to come up with new ways to interact with each other. Because of these new challenges, we decided to postpone all planned workshops and meet-ups. It also meant that it wasn't possible to follow up on many of the great ideas that Cherish and Marie had planned. This was very disappointing to all of us but the projects that these two inaugural Makers in Residence brought to us at the end of the year were so impressive that, looking back, we see this is an overwhelming success which makes us all the more excited for future possibilities. We are excited to share their projects with you!
-
+  
+  
+  
 ### Cherish Fulcher
 
 ![title image: Hair Identity & Tech, by Cherish](/images/cherishBlogTitle.png)
@@ -26,7 +28,9 @@ View Cherish's full project blog for more details and resources: [Makers in Resi
 [![YouTube Tutorial Screenshot](/images/tutorialScreenShot.png)](https://youtu.be/P89P-8eBEms)
 
 _[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, YouTube, 14:12)_
-
+  
+  
+  
 ### Marie Lopez
 
 Marie created a music project that explores spoken word performances by people of color. Marie composed and recorded a song, _Voices_, that she planned to perform live in the HSU Library as well as a workshop to share her process for composing a song using sound clips and instrument libraries. Unfortunately both of these had to be cancelled, due to COVID-19, but you can listen to _Voices_ and read Marie's artist statement and thoughts about her project below.
