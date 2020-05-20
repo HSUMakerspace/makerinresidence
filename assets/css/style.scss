@@ -115,16 +115,11 @@ a:hover {
 .anchorIcon {
   position: absolute;
   margin-left: -1.75em;
-  opacity: 0;
+  opacity: 1;
   width: 1em;
   transition: opacity 0.5s ease-out;
   top: 0.5em;
   left: 1.75em;
-}
-
-.anchorIcon.on {
-  opacity: 1;
-  transition: opacity 1.5s ease-in;
 }
 
 @media screen and (min-width: 42em) {
