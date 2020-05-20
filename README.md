@@ -35,7 +35,7 @@ _[Makerspace 3D Hair Accessory Tutorial](https://youtu.be/P89P-8eBEms) (Video, Y
 
 Marie created a music project that explores spoken word performances by people of color. Marie composed and recorded a song, _Voices_, that she planned to perform live in the HSU Library as well as a workshop to share her process for composing a song using sound clips and instrument libraries. Unfortunately both of these had to be cancelled, due to COVID-19, but you can listen to _Voices_ and read Marie's artist statement and thoughts about her project below.
 
-#### Marie's write-up:
+#### In Marie's words:
 
 As a music creator, film scores have always been a source of inspiration, since they are used to capture and describe a setting or mood. I wanted to use spoken word poetry to have another way of capturing an experience and use the real voices of those who live in those experiences of people of color. Bringing the two together was a practice of trying new musical settings that matched the words of the poetry, and also trying to highlight the meaning of the poetry itself. Although the project is not as complete as I would have liked, I am happy with what I was able to bring together. 
 
