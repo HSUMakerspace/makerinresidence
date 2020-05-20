@@ -81,10 +81,10 @@ h1 {
   background: #fff;
   width: 100%;
   box-shadow: inset -200vw 0px 0px #5c62cb;
-  overflow: hidden;
   color: #fff;
   transition: 1s;
   padding: 0.25em 1em;
+  position: relative;
 }
 
 .main-content h3:hover {
@@ -118,6 +118,8 @@ a:hover {
   opacity: 0;
   width: 1.5em;
   transition: opacity 0.5s ease-out;
+  top: 25%;
+  left: 14%;
 }
 
 .anchorIcon.on {
@@ -125,8 +127,13 @@ a:hover {
   transition: opacity 1.5s ease-in;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 42em) {
   .main-content {
     margin-top: 25%;
   }
+  
+  .main-content h3 {
+    font-size: 1.5em;
+  }
+  
 }
