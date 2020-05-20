@@ -44,10 +44,9 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
-<h5>Transcript</h5>
+<p class="button">View Transcript</p>
 <div class="transcript">
-    <p class="button">View Transcript</p>
-    <p>First Speaker:</p>
+<p>First Speaker:</p>
 <p>Did you know um, I have to explain, I didn't come from a good Catholic family, I came from a Mexican Catholic family.</p>
 <p>No, it's different. I have to explain, you know?</p>
 <p>My mother didn't cross herself or have little candles lit on the dresser.</p>
