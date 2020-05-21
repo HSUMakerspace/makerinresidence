@@ -46,24 +46,28 @@ As a music creator, film scores have always been a source of inspiration, since 
 
 <p class="button">View Transcript</p>
 <div class="transcript">
-<p class="bold">First Speaker:</p>
+<p class="bold">Sandra Cisneros:</p>
 <p>"Did you know um, I have to explain, I didn't come from a good Catholic family, I came from a Mexican Catholic family.<br>
     No, it's different. I have to explain, you know?<br>
     My mother didn't cross herself or have little candles lit on the dresser.<br>
     No, my mom's this real free thinker and if she had been a traditional mother I couldn't be the writer I am today."</p>
+<p><a href="https://www.youtube.com/watch?v=2brwzI6KmkE" target="_blank">View Cisneros's full video on YouTube</a></p>
 
-<p class="bold">Second Speaker:</p>
+<p class="bold">Melissa Lozada-Oliva:</p>
 <p>"My Spanish is my third birthday party. Half of it is memory. The other half is that photograph on the fridge is what my family has told me.<br>
     My Spanish is puzzle. Left in the rain too soggy to make its parts fit together to look just like the picture on the box."</p>
+<p><a href="https://www.youtube.com/watch?v=fE-c4Bj_RT0" target="_blank">View Lozada-Oliva's full video on YouTube</a></p>
 
-<p class="bold">Third Speaker:</p>
+<p class="bold">Kai Davis:</p>
 <p>"This is what it means to be a contradiction: too black to be a woman, and not man enough to be black.<br>
     This is what it means to occupy a vacant space: have everyone slash each cross-stitch intersection of my identity with a straight blade. Tell me to pick one label or none at all.<br>
     But ain't I a woman?"</p>
+<p><a href="https://www.youtube.com/watch?v=Z0F_6GMOa-8" target="_blank">View Davis's full video on YouTube</a></p>
 
-<p class="bold">Fourth Speaker:</p>
+<p class="bold">Sebastian Carson:</p>
 <p>"You take away our history, you take away our soul you take away our fathers you take away our jobs you take away our food.<br>
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</p> 
+<p><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">View Carson's full video on YouTube</a></p>
 </div>
 
 #### Equipment and software used
