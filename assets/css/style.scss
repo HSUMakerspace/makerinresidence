@@ -122,6 +122,32 @@ a:hover {
   left: 1.75em;
 }
 
+audio {
+  width: 100%;
+}
+
+button {    
+  background: #2AB54A;
+  display: inline-block;
+  padding: 0.25em 1em;
+  border-radius: 0.25em;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #23933b;
+}
+
+.transcript {
+  color: #444;
+  display: none;
+}
+
+.transcript.on {
+  display: block;
+}
+
 @media screen and (min-width: 42em) {
   .main-content {
     margin-top: 25%;
