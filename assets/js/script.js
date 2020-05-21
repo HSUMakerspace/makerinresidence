@@ -28,5 +28,9 @@ function addAnchorLink(){
   });
 }
 addAnchorLink();
+  
+  $('button').click(function(){
+    $('.transcript').toggleClass('on');
+  });
 
 });
