@@ -29,7 +29,7 @@ function addAnchorLink(){
 }
 addAnchorLink();
   
-  $('button').click(function(){
+  $('.button').click(function(){
     $('.transcript').toggleClass('on');
   });
 
