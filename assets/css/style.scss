@@ -139,8 +139,12 @@ audio {
   background: #23933b;
 }
 
-.transcript {
+.transcript {    
   color: #444;
+  padding: 1em;
+  border-radius: 0.25em;
+  box-shadow: 0em 0em 0.3em rgba(0,0,0,0.3);
+  transition: 1s;
   display: none;
 }
 
