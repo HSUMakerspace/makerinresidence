@@ -68,7 +68,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 <p class="bold">Fourth speaker:</p>
 <blockquote>"You take away our history, you take away our soul you take away our fathers you take away our jobs you take away our food.<br>
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</blockquote> 
-<footer><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">View Carson's full video on YouTube</a></footer>
+<footer>Sebastian Carson, from <cite><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">Black Boys Round Here (Spoken Word Poetry Live Performance - Sebastian Carson)</a></cite> (YouTube)</footer>
 </div>
 
 #### Equipment and software used
