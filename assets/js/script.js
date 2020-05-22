@@ -29,8 +29,8 @@ function addAnchorLink(){
 }
 addAnchorLink();
   
-  $('.button').click(function(){
-    $('.transcript').toggleClass('on');
+  $('.transcriptOpen').click(function(){
+    $('#transcript').toggleClass('on');
   });
 
 });
