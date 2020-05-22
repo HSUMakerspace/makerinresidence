@@ -61,7 +61,8 @@ As a music creator, film scores have always been a source of inspiration, since 
 
 <p class="bold">Third speaker:</p>
 <blockquote>"This is what it means to be a contradiction: too black to be a woman, and not man enough to be black.<br>
-    This is what it means to occupy a vacant space: have everyone slash each cross-stitch intersection of my identity with a straight blade. Tell me to pick one label or none at all.<br>
+    This is what it means to occupy a vacant space: have everyone slash each cross-stitch intersection of my identity with a straight blade. <br>
+    Tell me to pick one label or none at all.<br>
     But ain't I a woman?"</blockquote>
 <footer>Kai Davis, from <cite><a href="https://www.youtube.com/watch?v=Z0F_6GMOa-8" target="_blank">Kai Davis - "Ain't I a Woman"</a></cite> (YouTube)</footer>
 
