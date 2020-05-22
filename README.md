@@ -90,4 +90,5 @@ It would be ideal to work with and have recordings from local poets.
 
 #### Links &amp; resources
 
-A lot of the poetry readings from independent poets came from YouTube.
+Four clips from spoken word performances are included in _Voices_. To see the full details, including links to the full performances on YouTube, view the transcript (above). 
+<p class="button">View Transcript</p>
