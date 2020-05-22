@@ -90,4 +90,4 @@ It would be ideal to work with and have recordings from local poets.
 
 #### Links &amp; resources
 
-Four clips from spoken word performances are included in _Voices_. To see the full details, including links to the full performances on YouTube, view the [transcript](#transcript). 
+Four clips from spoken word performances are included in _Voices_. To see the full details, including links to the full performances on YouTube, view the <a href="#transcript" class="openTranscript">transcript</a>. 
