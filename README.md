@@ -44,7 +44,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
-<p class="button openTranscript openTranscriptToggle">View Transcript</p>
+<p class="button openTranscript openTranscriptToggle" style="display: none;">View Transcript</p>
 <div id="transcript">
 <div class="transcript-main">
 <p class="bold">First speaker:</p>
@@ -71,7 +71,7 @@ As a music creator, film scores have always been a source of inspiration, since 
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</blockquote> 
 <footer>Sebastian Carson, from <cite><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">Black Boys Round Here (Spoken Word Poetry Live Performance - Sebastian Carson)</a></cite> (YouTube)</footer>
 <br>
-<p class="button openTranscript openTranscriptToggle closeTranscript">Close Transcript</p>
+<p class="button openTranscript openTranscriptToggle closeTranscript" style="display: none;">Close Transcript</p>
 </div>
 </div>
 
