@@ -150,16 +150,22 @@ audio {
 
 #transcript {    
   color: #444;
-  padding: 1em;
-  border-radius: 0.25em;
-  box-shadow: 0em 0em 0.3em rgba(0,0,0,0.3);
-  margin: 0 1em;
+  background: #eee;
+  margin: 0 -100rem;
+  padding: 3rem 1rem;
+  box-shadow: inset 0em 0em 2.3em 0rem rgba(0,0,0,0.1);
   transition: 1s;
   display: none;
 }
 
 #transcript.on {
   display: block;
+}
+
+#transcript * {
+  max-width: 64rem;
+  padding: 2rem 1rem;
+  margin: 0 auto;
 }
 
 .bold {
@@ -178,6 +184,12 @@ audio {
   #transcript {    
     padding: 0.5em;
     margin: 0em;
+  }
+
+  #transcript * {
+    max-width: 64rem;
+    padding: 3rem 6rem;
+    margin: 0 auto;
   }
   
 }
