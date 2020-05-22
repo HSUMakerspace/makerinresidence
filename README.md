@@ -46,7 +46,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 
 <p class="button openTranscript">View Transcript</p>
 <div id="transcript">
-    
+<div class="transcript-main">
 <p class="bold">First speaker:</p>
 <blockquote>"Did you know um, I have to explain, I didn't come from a good Catholic family, I came from a Mexican Catholic family.<br>
     No, it's different. I have to explain, you know?<br>
@@ -70,6 +70,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 <blockquote>"You take away our history, you take away our soul, you take away our fathers, you take away our jobs, you take away our food.<br>
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</blockquote> 
 <footer>Sebastian Carson, from <cite><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">Black Boys Round Here (Spoken Word Poetry Live Performance - Sebastian Carson)</a></cite> (YouTube)</footer>
+</div>
 </div>
 
 #### Equipment and software used
