@@ -154,9 +154,9 @@ audio {
 #transcript {    
   color: #444;
   padding: 3rem 0rem;
-  box-shadow: inset 0em 0em 0.7em 0rem rgba(0,0,0,0.1);
+  box-shadow: inset 0em 1em 1.7em -1rem rgba(0,0,0,0.1);
   transition: 1s;
-  margin: 0 -100rem;
+  margin: 0 -1rem;
   display: none;
 }
 
@@ -174,8 +174,16 @@ audio {
   border: none;
   background: #fff;
   padding: 0.5rem;
+  margin: 0 auto;
   box-shadow: 0 0 0.25rem rgba(0,0,0,0.2);
   border-radius: 0.5rem;
+}
+
+#transcript footer {
+  text-align: left;
+  padding-left: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
 }
 
 .bold {
@@ -193,6 +201,7 @@ audio {
   
   #transcript {    
     padding: 0.5em;
+    margin: 0 -100rem;
   }
 
   .transcript-main {
