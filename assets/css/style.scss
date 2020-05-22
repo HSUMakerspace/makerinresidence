@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Oswald&family=Roboto+Condensed:wght@300&family=Unica+One&display=swap');
 
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: 'roboto condensed', sans-serif;
   width: 100%;
@@ -62,7 +66,6 @@ body {
   z-index: 1000;
   position: relative;
   margin-top: 45%;
-  font-size: 1.5rem;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -77,7 +80,7 @@ h1 {
 .main-content h3 {
   font-family: 'unica one';
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   background: transparent;
   width: 100%;
   box-shadow: inset -200vw 0px 0px #5c62cb;
@@ -94,17 +97,17 @@ h1 {
 
 .main-content h4 {    
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1.1rem;
 }
 
 .main-content blockquote {
   color: #595959;
   font-style: italic;
-  font-size: 0.85em;
+  font-size: 0.85rem;
 }
 
 #transcript footer {
-  font-size: 0.85em;
+  font-size: 0.85rem;
 }
 
 a {
@@ -169,7 +172,12 @@ audio {
   }
   
   .main-content h3 {
-    font-size: 2.5em;
+    font-size: 2.5rem;
+  }
+  
+  #transcript {    
+    padding: 0.5em;
+    margin: 0em;
   }
   
 }
