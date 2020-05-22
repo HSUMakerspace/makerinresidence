@@ -161,9 +161,9 @@ audio {
   display: block;
 }
 
-#transcript * {
+.transcript-main {
   max-width: 64rem;
-  padding: 0rem 1rem;
+  padding: 2rem 1rem;
   margin: 0 auto;
 }
 
@@ -185,9 +185,9 @@ audio {
     margin: 0 -100rem;
   }
 
-  #transcript * {
+  .transcript-main {
     max-width: 64rem;
-    padding: 0rem 6rem;
+    padding: 3rem 6rem;
     margin: 0 auto;
   }
   
