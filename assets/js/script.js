@@ -31,6 +31,13 @@ addAnchorLink();
   
   $('.openTranscript').click(function(){
     $('#transcript').toggleClass('on');
+    var toggleText = $(this).text().trim();
+    console.log("toggleText: "+toggleText);
+    if (toggleText === 'View Transcript'){
+      $('.openTranscriptToggle').text("Close Transcript");
+    } else if (toggleText === 'Close Transcript'){
+      $('.openTranscriptToggle').text("View Transcript");
+    }
   });
 
 });
