@@ -132,7 +132,7 @@ audio {
   width: 100%;
 }
 
-.transcriptOpen {    
+.openTranscript {    
   background: #2AB54A;
   display: inline-block;
   padding: 0.25em 1em;
@@ -141,7 +141,7 @@ audio {
   cursor: pointer;
 }
 
-.transcriptOpen:hover {
+.openTranscript:hover {
   background: #23933b;
 }
 
