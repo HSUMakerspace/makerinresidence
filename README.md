@@ -71,7 +71,7 @@ As a music creator, film scores have always been a source of inspiration, since 
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</blockquote> 
 <footer>Sebastian Carson, from <cite><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">Black Boys Round Here (Spoken Word Poetry Live Performance - Sebastian Carson)</a></cite> (YouTube)</footer>
 <br>
-<p class="openTranscript openTranscriptToggle closeTranscript">Close Transcript</p>
+<p class="button openTranscript openTranscriptToggle closeTranscript">Close Transcript</p>
 </div>
 </div>
 
