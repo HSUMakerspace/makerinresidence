@@ -44,8 +44,8 @@ As a music creator, film scores have always been a source of inspiration, since 
 <audio controls src="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a"><p>Github markdown and some browsers don't support HTML5 audio. Here is a <a href="https://raw.githubusercontent.com/HSUMakerspace/makerinresidence/master/Voices.m4a">link to the audio</a> instead.</p></audio>
 </figure>
 
-<p class="button">View Transcript</p>
-<div class="transcript">
+<p class="button openTranscript">View Transcript</p>
+<div id="transcript">
     
 <p class="bold">First speaker:</p>
 <blockquote>"Did you know um, I have to explain, I didn't come from a good Catholic family, I came from a Mexican Catholic family.<br>
@@ -90,5 +90,4 @@ It would be ideal to work with and have recordings from local poets.
 
 #### Links &amp; resources
 
-Four clips from spoken word performances are included in _Voices_. To see the full details, including links to the full performances on YouTube, view the transcript (above). 
-<p class="button">View Transcript</p>
+Four clips from spoken word performances are included in _Voices_. To see the full details, including links to the full performances on YouTube, view the [transcript](#transcript). 
