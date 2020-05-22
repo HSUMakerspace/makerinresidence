@@ -29,7 +29,7 @@ function addAnchorLink(){
 }
 addAnchorLink();
   
-  $('.transcriptOpen').click(function(){
+  $('.openTranscript').click(function(){
     $('#transcript').toggleClass('on');
   });
 
