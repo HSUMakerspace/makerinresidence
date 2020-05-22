@@ -66,7 +66,7 @@ As a music creator, film scores have always been a source of inspiration, since 
 <footer>Kai Davis, from <cite><a href="https://www.youtube.com/watch?v=Z0F_6GMOa-8" target="_blank">Kai Davis - "Ain't I a Woman"</a></cite> (YouTube)</footer>
 
 <p class="bold">Fourth speaker:</p>
-<blockquote>"You take away our history, you take away our soul you take away our fathers you take away our jobs you take away our food.<br>
+<blockquote>"You take away our history, you take away our soul, you take away our fathers, you take away our jobs, you take away our food.<br>
     And what we gon' do? We gon' celebrate over soul food around here! You see, we improvise 'round here! We emperors 'round here!"</blockquote> 
 <footer>Sebastian Carson, from <cite><a href="https://www.youtube.com/watch?v=SA1epAtb0_w" target="_blank">Black Boys Round Here (Spoken Word Poetry Live Performance - Sebastian Carson)</a></cite> (YouTube)</footer>
 </div>
