@@ -17,7 +17,7 @@ However, there was a major setback in our plans for the Spring 2020 semester: th
 
 ![title image: Hair Identity & Tech, by Cherish](/images/cherishBlogTitle.png)
 
-Cherish, who also working as a [Makerspace 3D Printing](http://libguides.humboldt.edu/makerspace/3dprinting) student assistant, designed her project around designing and printing 3D models. She created a blog and an instructional video on creating models with [Tinkercad](https://www.tinkercad.com/), a free web-based 3D modeling program used widely for teaching. Specifically, her project explores hair identity in the African American community and how making 3D models can be used to help express that identity. On her blog, Cherish shares that:
+Cherish, who was also working as a [Makerspace 3D Printing](http://libguides.humboldt.edu/makerspace/3dprinting) student assistant, focused her project on designing and printing 3D models. She created a blog and an instructional video on creating models with [Tinkercad](https://www.tinkercad.com/), a free web-based 3D modeling program used widely for teaching. Specifically, her project explores hair identity in the African American community and how making 3D models can be used to help express that identity. On her blog, Cherish shares that:
 
 > These posts are dedicated to demonstrating how you can bridge the gap between the way we express ourselves through our hair and technology. The main focus is the use of the 3D printer and ways we can expand the way we view 3D models and how we create them. 
 
